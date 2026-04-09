@@ -24,7 +24,7 @@ Each project has its own dedicated repository with complete documentation, code,
 </p>
 
 - 📖 Real-time temperature display using sensor & LCD  
-- 🔗 [View Project](https://https://github.com/malavikamelethil07-arch/automated__fancontrol)
+- 🔗 [View Project](https://github.com/malavikamelethil07-arch/automated__fancontrol)
 
 ---
 
