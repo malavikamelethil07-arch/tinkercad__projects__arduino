@@ -11,14 +11,8 @@ This repository contains beginner to intermediate level projects with circuits, 
 ---
 
 ## 📌 Projects Included
-- 🌡️ Temperature Monitoring System  
-- 🤖 Obstacle Avoiding Robot  
-- 🚦 Smart Traffic Light System  
-- 🧭 Maze Solver Robot  
+- 🌡️ Temperature Monitoring System
 
----
-
-# 🌡️ Temperature Monitoring System
 
 ## 📖 Description
 A real-time temperature monitoring system using a sensor and LCD display. It also classifies temperature (Cold / Warm / Hot).
