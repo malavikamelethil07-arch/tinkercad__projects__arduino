@@ -28,12 +28,6 @@ Each project has its own dedicated repository with complete documentation, code,
 ### 🚦 Smart alarm system using buzzer and ldr
 
 - 📖 Traffic signal simulation using LEDs  
-- 🔗 [View Project](https://github.com/malavikamelethil07-arch/smart_alarm_system/blob/main/RE)
-
+- 🔗 [View Project](https://github.com/malavikamelethil07-arch/smart_alarm_system)
 ---
 
-
-## 📂 Repository Structure
-```text
-images/
-README.md
