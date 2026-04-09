@@ -1,43 +1,64 @@
-# 🚀 Arduino Projects Collection
+# 🚀 Arduino Projects Portfolio
 
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
-![Status](https://img.shields.io/badge/Status-Learning-green)
-![Projects](https://img.shields.io/badge/Projects-Multiple-yellow)
+![Type](https://img.shields.io/badge/Type-Hardware%20Projects-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Welcome to my collection of Arduino projects 🤖  
-This repository contains beginner to intermediate level projects with circuits, code, and explanations.
+Welcome to my Arduino Projects Portfolio 🤖  
+This repository showcases a collection of my hardware projects with links to detailed implementations.
 
 ---
 
-## 📌 Projects Included
-- 🌡️ Temperature Monitoring System
+## 📌 About
+This repo acts as a central hub for all my Arduino-based projects.  
+Each project has its own dedicated repository with complete documentation, code, and circuit design.
 
+---
 
-## 📖 Description
-A real-time temperature monitoring system using a sensor and LCD display. It also classifies temperature (Cold / Warm / Hot).
+## 🧭 Projects Showcase
 
-## 🧰 Components
-- Arduino Uno  
-- Temperature Sensor (LM35/TMP36)  
-- 16x2 LCD Display  
-- Resistors  
-- Breadboard & Jumper Wires  
+### 🌡️ Temperature Monitoring System
+<p align="center">
+  <img src="images/temp.png" width="350"/>
+</p>
 
-## ⚙️ Features
-✔️ Real-time temperature display  
-✔️ LCD output  
-✔️ Temperature classification  
+- 📖 Real-time temperature display using sensor & LCD  
+- 🔗 [View Project](https://github.com/your-username/temp-monitor)
 
-## 🧠 What I Learned
-- Sensor interfacing  
-- ADC (Analog to Digital Conversion)  
-- LCD interfacing  
+---
 
-## 📸 Image
-<img width="1536" height="632" alt="Image" src="https://github.com/user-attachments/assets/0f164491-04a2-4474-8ffb-f1e4e04e4631" >
+### 🤖 Obstacle Avoiding Robot
+<p align="center">
+  <img src="images/robot.png" width="350"/>
+</p>
 
+- 📖 Autonomous robot using ultrasonic sensor  
+- 🔗 [View Project](https://github.com/your-username/obstacle-robot)
 
-## 💻 Code
-The code in detail is given here:
-[View code](smartfan.cpp)
+---
+
+### 🚦 Smart Traffic Light System
+<p align="center">
+  <img src="images/traffic.png" width="350"/>
+</p>
+
+- 📖 Traffic signal simulation using LEDs  
+- 🔗 [View Project](https://github.com/your-username/traffic-light)
+
+---
+
+### 🧭 Maze Solver Robot
+<p align="center">
+  <img src="images/maze.png" width="350"/>
+</p>
+
+- 📖 Robot that navigates through a maze  
+- 🔗 [View Project](https://github.com/your-username/maze-solver)
+
+---
+
+## 📂 Repository Structure
+```text
+images/
+README.md
