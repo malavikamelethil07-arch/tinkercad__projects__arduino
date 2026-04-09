@@ -41,11 +41,9 @@ A real-time temperature monitoring system using a sensor and LCD display. It als
 - LCD interfacing  
 
 ## 📸 Image
-![Temperature Project](images/temp.jpg)
+<img width="1536" height="632" alt="Image" src="https://github.com/user-attachments/assets/0f164491-04a2-4474-8ffb-f1e4e04e4631" >
 
-## 🎥 Demo
-[Click to Watch](your-video-link)
 
 ## 💻 Code
-```cpp
-// Your Arduino code here
+The code in detail is given here:
+[View code]()
