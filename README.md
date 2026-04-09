@@ -19,44 +19,19 @@ Each project has its own dedicated repository with complete documentation, code,
 ## 🧭 Projects Showcase
 
 ### 🌡️ Temperature Monitoring System
-<p align="center">
-  <img src="images/temp.png" width="350"/>
-</p>
 
 - 📖 Real-time temperature display using sensor & LCD  
 - 🔗 [View Project](https://github.com/malavikamelethil07-arch/automated__fancontrol)
 
 ---
 
-### 🤖 Obstacle Avoiding Robot
-<p align="center">
-  <img src="images/robot.png" width="350"/>
-</p>
-
-- 📖 Autonomous robot using ultrasonic sensor  
-- 🔗 [View Project](https://github.com/your-username/obstacle-robot)
-
----
-
-### 🚦 Smart Traffic Light System
-<p align="center">
-  <img src="images/traffic.png" width="350"/>
-</p>
+### 🚦 Smart alarm system using buzzer and ldr
 
 - 📖 Traffic signal simulation using LEDs  
-- 🔗 [View Project](https://github.com/your-username/traffic-light)
+- 🔗 [View Project](https://github.com/malavikamelethil07-arch/smart_alarm_system/blob/main/RE)
 
 ---
 
-### 🧭 Maze Solver Robot
-<p align="center">
-  <img src="images/maze.png" width="350"/>
-</p>
-
-- 📖 Robot that navigates through a maze  
-- 🔗 [View Project](https://github.com/your-username/maze-solver)
-
----
 
 ## 📂 Repository Structure
 ```text
