@@ -46,4 +46,4 @@ A real-time temperature monitoring system using a sensor and LCD display. It als
 
 ## 💻 Code
 The code in detail is given here:
-[View code]()
+[View code](smartfan.cpp)
